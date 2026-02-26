@@ -1,0 +1,46 @@
+body {
+    background-color: #FFEFD5;
+    color: #8B4513;
+}
+
+.cimkep {
+    border: 1px solid black;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+table {
+    width: 300px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.jobb {
+    width: 120px;
+}
+
+.zold {
+    text-align: center;
+    background-color: rgb(0, 255, 0);
+}
+
+.sarga {
+    text-align: center;
+    background-color: rgb(255, 255, 0);
+}
+
+.piros {
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+}
+
+.lila {
+    text-align: center;
+    background-color: rgb(248, 2, 248);
+}
